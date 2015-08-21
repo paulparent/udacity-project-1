@@ -10,7 +10,7 @@ This project requires Python v2.x to be installed on the user's computer.
 
 How to Run Project
 ------------------
-1. Download the latest copy of the project from https://github.com/paulparent/udacity-project-1.git.
+1. Download the latest copy of the project from https://github.com/paulparent/udacity-project-1.git (there is a small "Download ZIP" button at the bottom of the column at the right side of the repository page).
 2. Within the download, you will see the following files:
     - README.txt (this document)
     - entertainment_center.py
@@ -30,3 +30,4 @@ This project includes a few additional features beyond the base specifications:
     - render the additional information in the browser (story line, release date, and link to IMDB),
     - narrow the scope of the click events to the poster image, movie title, and storyline
     - add text with links to "More Information at IMDB"
+    - added unicode tomato to title in navbar
