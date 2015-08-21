@@ -10,7 +10,7 @@ This project requires Python v2.x to be installed on the user's computer.
 
 How to Run Project
 ------------------
-1. Download the latest copy of the project from [github url].
+1. Download the latest copy of the project from https://github.com/paulparent/udacity-project-1.git.
 2. Within the download, you will see the following files:
     - README.txt (this document)
     - entertainment_center.py
