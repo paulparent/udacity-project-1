@@ -1,5 +1,3 @@
-import webbrowser
-
 class Movie():
   """This class provides a way to define a movie and store its related information.
 
